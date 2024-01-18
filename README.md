@@ -6,6 +6,4 @@ Destaco información que pueda resultar interesante para cualquier perfil de per
 
 Desarrollo realizado con HTML, CSS, JAVASCRIPT, JQUERY, AJAX, PHP y MYSQL.
 
-Dominio de la web:
 
-www.salidadelparking.com
